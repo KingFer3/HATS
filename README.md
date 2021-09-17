@@ -25,3 +25,20 @@ https://link.sthetix.info/hats
 
 Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
 
+## CREDIT
+
+[CTCaer](https://github.com/CTCaer)
+
+[Atmosphere-NX](https://github.com/Atmosphere-NX)
+
+[Blawar](https://github.com/blawar)
+
+[ITotalJustice](https://github.com/ITotalJustice)
+
+[suchmememanyskill](https://github.com/suchmememanyskill)
+
+[shchmue](https://github.com/shchmue)
+
+
+
+
