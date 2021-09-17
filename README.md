@@ -1,4 +1,4 @@
-This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Sigpatches from iTotaljustice and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file.
+This pack includes several components, which is the latest version of Hekate, Atmosphere, Tinfoil and Sigpatches from iTotaljustice and some payloads like the latest version of Lockpick_RCM, and Tegraexplorer along with its Scripts. This pack also contains the SX Gear 1.1 Boot.dat file. 
 
 **HOW TO INSTALL THE PACK**
 
@@ -15,4 +15,8 @@ This pack includes several components, which is the latest version of Hekate, At
 
 Use this link to always download the updated pack
 https://link.sthetix.info/hats
+
+**WHY IT IS CALLED HATS**
+
+Well, it contains (H)ekate + (A)tmosphere + (T)infoil + (S)igpatches . Easy to remember, right?
 
